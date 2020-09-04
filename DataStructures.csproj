@@ -53,7 +53,7 @@
     <Content Include=".gitignore" />
     <Content Include=".idea\.idea.DataStructures.dir\.idea\encodings.xml" />
     <Content Include=".idea\.idea.DataStructures.dir\.idea\workspace.xml" />
-    <Content Include="Readme.md" />
+    <Content Include="README.md" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
